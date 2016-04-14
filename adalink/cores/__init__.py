@@ -15,3 +15,4 @@ import lpc1343
 import nrf51822
 import stm32f0
 import stm32f2
+import stm32f4
